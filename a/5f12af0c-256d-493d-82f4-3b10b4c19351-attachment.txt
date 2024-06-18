@@ -1,0 +1,3 @@
+[32mINFO    [0m pythonLog:__init__.py:55 - Executing test case: test_login_failed, from package: login_page/test_login_failed.py
+[32mINFO    [0m pythonLog:__init__.py:55 Step 1: Login with invalid username and password
+[32mINFO    [0m pythonLog:__init__.py:55 verify home page is displayed
